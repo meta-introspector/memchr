@@ -4,7 +4,7 @@ name = "main"
 version = "2.7.6"  # should match current 'memchr' version
 edition = "2021"
 
-[workspace]
+#[workspace]
 
 [dependencies]
 anyhow = "1.0.100"

@@ -4,7 +4,7 @@ name = "main"
 version = "0.0.0"  # we get version from build script
 edition = "2021"
 
-[workspace]
+#[workspace]
 
 [dependencies]
 anyhow = "1.0.100"

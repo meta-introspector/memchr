@@ -4,7 +4,7 @@ name = "main"
 version = "0.6.4"
 edition = "2021"
 
-[workspace]
+#[workspace]
 
 [dependencies]
 anyhow = "1.0.100"

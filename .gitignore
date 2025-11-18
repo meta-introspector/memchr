@@ -8,3 +8,4 @@ Cargo.lock
 scratch*
 bench_large/huge
 tmp/
+process-repo.log
