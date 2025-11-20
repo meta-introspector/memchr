@@ -64,15 +64,15 @@ core = { version = '1.0.0', optional = true, package = 'rustc-std-workspace-core
 [dev-dependencies]
 quickcheck = { version = "1.0.3", default-features = false }
 
-[profile.release]
-debug = true
+# [profile.release]
+# debug = true
 
-[profile.bench]
-debug = true
+# [profile.bench]
+# debug = true
 
-[profile.test]
-opt-level = 3
-debug = true
+# [profile.test]
+# opt-level = 3
+# debug = true
 
 [package.metadata.docs.rs]
 rustdoc-args = ["--generate-link-to-definition"]
